@@ -1,6 +1,6 @@
 ## Andrii
 
-**'Python Developer'**
+**Python Developer**
 
 A current student with a passion to explore new opportunities. I am eager to apply my skills 
 and collaborate within dynamic teams to contribute to innovative solutions. With a 
@@ -21,7 +21,7 @@ field of software development.
 <img align='left' alt='VS Code' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg'/>
 <img align='left' alt='AWS' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg'/>
 <br/>
-#
+
 
 
 
