@@ -19,7 +19,8 @@ A current student with a passion to explore new opportunities. I am eager to app
 <img align='left' alt='VS Code' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg'/>
 <img align='left' alt='AWS' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg'/>
 
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=Andrii0302&theme=catppuccin_mocha&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii0302&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
