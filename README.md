@@ -18,6 +18,8 @@ field of software development.
 <img align='left' alt='Linux' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg'/>
 <img align='left' alt='Postman' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg'/>
 <img align='left' alt='GIT' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg'/>
+<img align='left' alt='VS Code' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg'/>
+
 
 
 
