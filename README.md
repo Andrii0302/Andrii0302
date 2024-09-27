@@ -5,7 +5,7 @@ A current student with a passion to explore new opportunities. I am eager to app
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tick_on_me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrii-diduk-7620b6327/) 
 
-### 💻 Tech Stack:
+# 💻 Tech Stack:
 <img align='left' alt='Python' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'/>
 <img align='left' alt='Django' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg'/>
 <img align='left' alt='FastAPI' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg'/>
@@ -19,7 +19,7 @@ A current student with a passion to explore new opportunities. I am eager to app
 <img align='left' alt='VS Code' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg'/>
 <img align='left' alt='AWS' width='30px' style='padding-right:10px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg'/><br/>
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Andrii0302&theme=catppuccin_mocha&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrii0302&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
