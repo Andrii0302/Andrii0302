@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Python Developer
+### Python Developer
 A current student with a passion to explore new opportunities. I am eager to apply my skills <br>and collaborate within dynamic teams to contribute to innovative solutions. With a <br>commitment to growth and excellence, I am poised to embark on a fulfilling journey in the <br>field of software development.
 
 ## 🌐 Socials:
